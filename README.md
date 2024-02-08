@@ -1,4 +1,4 @@
-# remote-painter
+# three-sockets-vite
  
 This is a web-sockets with socket.io and three.js using vite build pipeline. 
 
