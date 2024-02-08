@@ -17,3 +17,5 @@ We also have our main.js which is our development js file for three.js sketch. D
       npm run build
   - The finished site will be run out of the dist folder with:
       npm run start
+
+You could then just host the app.js (websockets server) and the dist folder somewhere you can host node servers, e.g. on [glitch](https://glitch.com/edit/#!/three-sockets)
